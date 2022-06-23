@@ -1,0 +1,14 @@
+.weather-app {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 4px;
+}
+h1 {
+  color: #596e79;
+  font-size: 24px;
+}
+body {
+  background: red;
+}
